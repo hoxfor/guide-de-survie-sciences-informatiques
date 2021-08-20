@@ -7,7 +7,7 @@
 * [EPL Drive](https://uclouvain-my.sharepoint.com/:f:/g/personal/miguel_delecourt_student_uclouvain_be/ErNklAdPrRxMhivv3RRPEQABvHvHFqhBpATkxaDGa-OQNw)
 * [Le programme SINF Bachelier1](https://uclouvain.be/prog-2021-sinf1ba-an1)
 * [Ton horaire de cours](http://horaire.uclouvain.be/direct/index.jsp?projectId=14&displayConfName=webEtudiant&showTree=true&showOptions=true&login=etudiant&password=student&code=sinf11ba)
-* [Communoté](https://www.communote.be/)(une platforme de partage de notes entre étudiants. merci ![Ahzed](https://github.com/Ahzed11))
+* [Communoté](https://www.communote.be/)(une platforme de partage de notes entre étudiants réalisé par [Ahzed](https://github.com/Ahzed11))
 * [Emplacement des auditoires](https://uclouvain.be/fr/administrations/adpi/auditoires-ucl-louvain-la-neuve.html)
 
 # Les conseils des anciens
