@@ -3,7 +3,7 @@ Vous pouvez y ajouter ça que vous voulez tant que ça aide les étudiants (des 
 
 ### Comment contribuer?  
 
-Les contributions écrites se font sur les fichier au format Markdown (.md) qui à une syntaxe spécifique que tu peux trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne). 
+Les contributions écrites se font sur les fichiers au format Markdown (.md) qui à une syntaxe spécifique que tu peux trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne). 
 
 ### Liens
 
