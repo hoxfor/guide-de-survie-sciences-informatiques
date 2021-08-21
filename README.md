@@ -1,6 +1,10 @@
 # Comment marche ce guide?
 Vous pouvez y ajouter ça que vous voulez tant que ça aide les étudiants (des liens, des petit fichier, des conseils, des reponses aux questions qui reviennet souvent, ... lâchez-vous).
 
+### Comment contribuer?  
+
+Les contributions écrites se font sur les fichier au format Markdown (.md) qui à une syntaxe spécifique que tu peux trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne). 
+
 ### Liens
 
 * [Inginious](http://inginious.info.ucl.ac.be/)
