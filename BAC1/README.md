@@ -12,7 +12,10 @@
 
 ## Les conseils des anciens
 
-* Fait les TP! C'est parfois chiant mais c'est trop important que pour les louper (genre vraiment).
+* Fais les TP! C'est parfois chiant mais c'est trop important que pour les louper (genre vraiment).
+* Taffe élec comme un(e) forcené(e), c'est le cours le plus difficile de l'année, mais une fois passé, tu seras content(e).
+* Ne surtout pas sous-estimer l'exam de socio.
+* Pour tous les cours de progra, c'est important de se garder à jour pendant tout le quadri.
 * Veillez saisir d'autres conseils... 
 
 ## FAQ
