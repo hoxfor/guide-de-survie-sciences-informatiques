@@ -1,9 +1,9 @@
 # Comment marche ce guide?
-Vous pouvez y ajouter ça que vous voulez tant que ça aide les étudiants (des liens, des petit fichier, des conseils, des reponses aux questions qui reviennet souvent, ... lâchez-vous).
+Vous pouvez y ajouter ce que vous voulez tant que ça aide les étudiants (des liens, des petits fichier, des conseils, des réponses aux questions qui reviennent souvent, ... lâchez-vous).
 
 ### Comment contribuer?  
 
-Les contributions écrites se font sur les fichiers au format Markdown (.md) qui à une syntaxe spécifique que tu peux trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne aussi). 
+Les contributions écrites se font sur les fichiers au format Markdown (.md) qui a une syntaxe spécifique que vous pouvez trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne aussi). 
 
 ### Liens
 
