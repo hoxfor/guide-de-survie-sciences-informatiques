@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/status-work%20in%20progress-blue?style=flat-square)
 # Comment marche ce guide?
 Vous pouvez y ajouter ce que vous voulez tant que ça aide les étudiants (des liens vers des ressources externes ex: Youtube, Medium, Notion, Quizlet, etc), des petits fichier, des conseils, des réponses aux questions qui reviennent souvent, ... lâchez-vous).
 
