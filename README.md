@@ -1,5 +1,5 @@
 # Comment marche ce guide?
-Vous pouvez y ajouter ce que vous voulez tant que ça aide les étudiants (des liens, des petits fichier, des conseils, des réponses aux questions qui reviennent souvent, ... lâchez-vous).
+Vous pouvez y ajouter ce que vous voulez tant que ça aide les étudiants (des liens vers des ressource externe ex: Youtube, Medium, Notion, Quizlet, etc), des petits fichier, des conseils, des réponses aux questions qui reviennent souvent, ... lâchez-vous).
 
 ### Comment contribuer?  
 
