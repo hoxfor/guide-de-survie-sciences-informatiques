@@ -3,4 +3,4 @@
   - Donner un exemple
   - Coder les algos vu en cours
 - Il n'interroge pas sur les TP
-- Je vous conseille mon super Notion qui reprend tous les concepts vus en cours https://rowan-politician-654.notion.site/LINFO1131-Advanced-programming-language-concepts-6868b455456045ed9524ad41fcdd1acf
+- Je vous conseille mon super Notion qui reprend tous les concepts vus en cours https://fdardenne.notion.site/LINFO1131-Advanced-programming-language-concepts-6868b455456045ed9524ad41fcdd1acf
