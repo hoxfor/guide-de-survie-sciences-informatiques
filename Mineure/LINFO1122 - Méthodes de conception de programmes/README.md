@@ -1,0 +1,2 @@
+- Les TP sont ultra important pour réussir le cours, les questions d'examens sont du type TP et non théorique. Le CM n'est pas indispensable du tout.
+- Pour la partie design pattern, si vous êtes dans le flou: Google est votre ami et https://sourcemaking.com/design_patterns également
