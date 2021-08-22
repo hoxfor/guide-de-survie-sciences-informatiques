@@ -4,6 +4,7 @@
 
 * [Pour faire des circuits](https://www.circuitlab.com/)
 * [Electronics on Crash Course](https://www.youtube.com/playlist?list=PL5bQYDzmH-3gmHkNCZevVvRux8l8NiV-1)
+* Si vraiment vous avez du mal avec cette matières je vous conseille le livre "[L'électronique pour les nuls](https://www.amazon.fr/Lélectronique-pour-Nuls-grand-format/dp/2412056013/ref=sr_1_1?__mk_fr_FR=ÅMÅŽÕÑ&dchild=1&keywords=L%27électronique+pour+les+Nuls%2C+grand+format%2C+3+éd&qid=1629626632&s=books&sr=1-1)" (Vraiment ce livre c'est le feu si vous pigez que dalle) 
 
 
 ## Video de cours
