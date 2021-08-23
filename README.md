@@ -7,7 +7,7 @@ Vous pouvez y ajouter ce que vous voulez tant que ça aide les étudiants (des l
 Les contributions écrites se font sur les fichiers au format Markdown (.md) qui a une syntaxe spécifique que vous pouvez trouver [ici](https://www.markdownguide.org/cheat-sheet/) (le HTML fonctionne aussi). 
 
 ### Liens
-
+* [Louvain-li-Nux](https://www.louvainlinux.org)
 * [INGInious](http://inginious.info.ucl.ac.be/)
 * [Le Discord SINF](https://discord.gg/CdtkZjCtUU)
 * [Google Drive](https://drive.google.com/drive/folders/0B1i5OL6s8FOsc0R4Y25MQzlJcFU)
