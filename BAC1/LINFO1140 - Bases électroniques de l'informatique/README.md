@@ -10,7 +10,7 @@ Version PDF du [livre de référence](https://github.com/francoistm/guide-de-sur
 
 ## Video de cours
 
-[Cours 1: Circuits électriques](https://web.microsoftstream.com/video/1d994e6c-f034-49c0-bba5-2e97755e6702)
+- [Cours 1: Circuits électriques](https://web.microsoftstream.com/video/1d994e6c-f034-49c0-bba5-2e97755e6702)
     - Notion de circuit électrique
     - Courant électrique
     - Tension électrique
