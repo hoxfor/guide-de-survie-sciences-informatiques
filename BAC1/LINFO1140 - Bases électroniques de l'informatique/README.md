@@ -1,5 +1,7 @@
 # LINFO1140 - Bases électroniques de l'informatique
 
+Version PDF du [livre de référence]() (**Electrical Engineering Principles and Applications** by Allan R. Hambley)
+
 ## Lien 
 
 * [Pour faire des circuits](https://www.circuitlab.com/)
