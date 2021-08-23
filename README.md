@@ -8,7 +8,7 @@ Les contributions écrites se font sur les fichiers au format Markdown (.md) qui
 
 ### Liens
 
-* [Inginious](http://inginious.info.ucl.ac.be/)
+* [INGInious](http://inginious.info.ucl.ac.be/)
 * [Le Discord SINF](https://discord.gg/CdtkZjCtUU)
 * [Google Drive](https://drive.google.com/drive/folders/0B1i5OL6s8FOsc0R4Y25MQzlJcFU)
 * [EPL Drive](https://uclouvain-my.sharepoint.com/:f:/g/personal/miguel_delecourt_student_uclouvain_be/ErNklAdPrRxMhivv3RRPEQABvHvHFqhBpATkxaDGa-OQNw)
