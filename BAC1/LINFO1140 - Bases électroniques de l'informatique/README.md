@@ -2,7 +2,7 @@
 
 Version PDF du [livre de référence](https://github.com/francoistm/guide-de-survie-sciences-informatiques/raw/main/BAC1/LINFO1140%20-%20Bases%20électroniques%20de%20l'informatique/Electrical%20Engineering%20Principles%20and%20Applications%20by%20Allan%20R.%20Hambley%20(z-lib.org).pdf.zip) (**Electrical Engineering Principles and Applications** by Allan R. Hambley)
 
-Version PDF du [livre de référence]() (**Digital Design and Computer Architecture** by David Money Harris & Sarah L. Harris)
+Version PDF du [livre de référence](https://github.com/francoistm/guide-de-survie-sciences-informatiques/raw/main/BAC1/LINFO1140%20-%20Bases%20électroniques%20de%20l'informatique/Digital%20Design%20and%20Computer%20Architecture%2C%20Second%20Edition%20by%20David%20M.%20Harris%2C%20Sarah%20L.%20Harris.pdf.zip) (**Digital Design and Computer Architecture** by David Money Harris & Sarah L. Harris)
 
 ## Liens
 
