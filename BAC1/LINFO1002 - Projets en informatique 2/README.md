@@ -7,3 +7,7 @@
 * [Apprendre le Javascript](https://www.w3schools.com/js/default.asp)
 * [Apprendre le SQL](https://www.w3schools.com/sql/default.asp)
 
+### Git: le gestionnaire de version
+
+* [Comprendre Git en 100 secondes](https://www.youtube.com/watch?v=hwP7WQkmECE)
+* [Télécharger Git](https://git-scm.com/downloads)
