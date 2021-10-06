@@ -28,3 +28,5 @@ gratuitement** avec le [Github student pack](https://education.github.com/benefi
 - sout : écrire `System.out.println()` (à taper direct dans l'IDE)
 - psvm : écrire `public static void main(String[] args)` (même chose)
 
+## Liens utiles
+- [Site de visualisation d'algorithmes](https://visualgo.net/)
