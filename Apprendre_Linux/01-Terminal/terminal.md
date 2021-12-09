@@ -9,7 +9,7 @@ En voici quelque unes:
 
 ### Savoir où tu te trouve dans le system de fichier avec *pwd*
 
-pwd signifie Print Working Directory
+pwd signifie Print Working Directory. Il te reverra le répertoire dans lequel tu te trouve après avoir taper la commande.
 
 ```BASH
 root@linux:~$ pwd
