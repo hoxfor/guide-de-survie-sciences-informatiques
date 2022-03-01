@@ -11,3 +11,8 @@ Si vous souhaitez passer une certification LPI Linux Essential, LPI-1, LPI-2 et 
 
 * Part 1 <https://www.youtube.com/watch?v=JinFsXrOHao>
 * Part 2 <https://www.youtube.com/watch?v=zdhNMiY6zfo>
+
+
+## Apprendre l'OSINT (Open-Source Intelligence)
+
+un bon cours en anglais (the cyber mentor) => https://www.youtube.com/watch?v=qwA6MmbeGNo
