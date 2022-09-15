@@ -20,3 +20,4 @@ Les contributions écrites se font sur les fichiers au format Markdown (.md) qui
 * [Communoté](https://www.communote.be/) (une platforme de partage de notes entre étudiants réalisé par [Alexandre Zenon](https://github.com/Ahzed11))
 * [Emplacement des auditoires](https://uclouvain.be/fr/administrations/adpi/auditoires-ucl-louvain-la-neuve.html)
 * [Emplacement des salles informatiques](https://www.google.com/maps/d/viewer?mid=1LhefFjePIBksJEJ91QsFZk2V4hDuNQEL&ll=50.66893714275128%2C4.618649383860323&z=16)
+* [Template Notion pour gérer ses études](https://etudiant-template.notion.site/Universit-5179ff2685584586b8a0a8c20c5baa8f)
