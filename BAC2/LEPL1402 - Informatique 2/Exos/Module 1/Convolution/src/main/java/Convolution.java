@@ -30,18 +30,4 @@ public class Convolution  {
         return M;
     }
 
-    public static void main(String[] a) {
-        System.out.println("fromage");
-
-        int[] array = new int[]{1,2,3};
-        foo(array);
-        System.out.println(Arrays.toString(array));
-
-    }
-
-
-    public static void foo(int[] a){
-        a = new int[]{4,5,6};
-    }
-
 }
