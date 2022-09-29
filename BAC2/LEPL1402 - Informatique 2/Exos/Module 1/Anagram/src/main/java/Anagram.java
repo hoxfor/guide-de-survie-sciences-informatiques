@@ -52,10 +52,4 @@ public class Anagram {
          if (Arrays.equals(s1cout,s2cout)) return true;
          return false;
     }
-
-    public static void main(String[] args){
-        String s = new String ("abcdefghijklmnopqrstuvwxyz   ABCDEFGHIJKLMNOPQRSTUVWXYZ");
-        System.out.println(Arrays.toString(countAlphabet(s)));
-
-    }
 }
