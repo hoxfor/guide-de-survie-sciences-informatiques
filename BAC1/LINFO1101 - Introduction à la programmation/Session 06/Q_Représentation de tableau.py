@@ -6,5 +6,5 @@ def table(filename_in, filename_out, width):
     with open(filename_out, "w") as file_out:
         file_out.write("+"+"-"*(width+2)+"+\n")
         for lines in file_lines:
-            file_out.write("| {:{}} |\n".format(lines[:width+1], width))
+            file_out.write("| {:{}} |\n".format(lines[:width], width))
         file_out.write("+"+"-"*(width+2)+"+")
